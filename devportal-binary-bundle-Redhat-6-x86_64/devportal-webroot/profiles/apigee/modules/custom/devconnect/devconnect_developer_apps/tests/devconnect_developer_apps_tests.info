@@ -1,0 +1,9 @@
+name = Devconnect Testing
+description = Provides Unit testing for Devconnect Modules
+package = DevConnect
+core = 7.x
+dependencies[] = devconnect
+dependencies[] = devconnect_user
+dependencies[] = me
+
+files[] = DeveloperAppEntityTestCase.test
